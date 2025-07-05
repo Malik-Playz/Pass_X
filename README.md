@@ -1,1 +1,2 @@
-# Pass_X
+# passx-password-manager
+ 
